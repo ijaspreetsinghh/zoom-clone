@@ -10,12 +10,12 @@ const Navbar = () => {
       <Link href={"/"} className='flex items-center gap-1'>
         <Image
           src={"/icons/logo.svg"}
-          alt='Zooom Logo'
+          alt='Zroom Logo'
           height={32}
           width={32}
         />
         <p className='text-[26px]  font-extrabold text-white max-sm:hidden'>
-          Zooom
+          Zroom
         </p>
       </Link>
       <div className='flex-between gap-5'>
